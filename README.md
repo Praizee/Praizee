@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Praizee
-- 👀 I’m interested in ... Website and App development
-- 🌱 I’m currently learning ... python and JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... praiseadeniji2017@gmail.com and +2349028923853
+- 👀 I’m interested in ... Web and App development
+- 🌱 I’m currently learning ... React and JavaScript.....and Dart
+- 💞️ I’m looking to collaborate on ...Flutter and React projects
+- 📫 How to reach me ... praiseadeniji2022@gmail.com and +2349028923853
 
 <!---
 Praizee/Praizee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
