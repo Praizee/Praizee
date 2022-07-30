@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Praizee
 - 👀 I’m interested in ... Web and App development
-- 🌱 I’m currently learning ... React and JavaScript.....and Dart
-- 💞️ I’m looking to collaborate on ...Flutter and React projects
+- 🌱 I’m currently learning ... React and Node.js
+- 💞️ I’m looking to collaborate on ... React and Node.js projects
 - 📫 How to reach me ... praiseadeniji2022@gmail.com and +2349028923853
 
 <!---
