@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Praizee
+- 👋 Hi, I’m @Praizee (Stephen Adeniji), a Frontend Web Developer
 - 👀 I’m interested in ... Web and App development
 - 🌱 I’m currently learning ... React and Node.js
 - 💞️ I’m looking to collaborate on ... React and Node.js projects
