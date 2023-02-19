@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Praizee (Stephen Adeniji), a Frontend Web Developer
 - 👀 I’m interested in ... Web and App development
-- 🌱 I’m currently learning ... React and Node.js
-- 💞️ I’m looking to collaborate on ... React and Node.js projects
-- 📫 How to reach me ... praiseadeniji2022@gmail.com and +2349028923853
+- 🌱 I’m currently learning ... React
+- 💞️ I’m looking to collaborate on ... Frontend web dev projects
+- 📫 How to reach me ... adeolaastephen@gmail.com and +2349028923853
 
 <!---
 Praizee/Praizee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
