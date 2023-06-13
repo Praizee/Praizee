@@ -9,7 +9,7 @@
 - 👀 I’m interested in `Web and App development`
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning: `Web Development` and `Cybersecurity `.
-- 💞️ I’m currently open for: `Collaboration` on ` Frontend Web Dev projects`.
+- 💞️ I’m currently open for: `Collaboration` on `Frontend Web Dev projects`.
 - :nerd_face: Always `learning new things`!
 - 📫 How to reach me ... adeolaastephen@gmail.com and +2349028923853
 <!-- - :computer: I am a creative programmer mainly at `Sketching` and `Machine Learning`. -->
@@ -30,10 +30,10 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
-	<a href="https://github.com/Praizee"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://github.com/Praizee"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=GitHub&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/stephen-adeniji/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/steve.ade1407/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/steve_ade14/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+	<a href="https://www.instagram.com/steve_ade14/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?plastic&logo=Instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://twitter.com/steve_ade1407"><img alt="Mastodon Follow" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=plastic&logo=Twitter&logoColor=white"></a>
 </p>
 
@@ -45,10 +45,27 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-[![Praizee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Praizee)](https://github.com/Praizee/github-readme-stats)
+## 📊 Github Stats
 
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Praizee's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Praizee&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Praizee&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Praizee's Stats" height="192px"/>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+  
+<br/>
+<br/>
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPraizee&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<p align="center">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPraizee&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile-Hits&edge_flat=false"/></a>
+</p>
+
+Last Edited on: 13/06/2023
 
 <!-- https://streak-stats.demolab.com/demo/ -->
 <!-- https://hits.seeyoufarm.com/ -->
