@@ -20,7 +20,8 @@
 
 ## 🔥 Streak Stats
 <p align="center">
-  <img src="https://github.com/Praizee/Praizee/assets/89282358/115fa7a8-4047-445d-b11e-66947fd5f285" alt="Praizee">
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=Praizee&theme=algolia" alt="Praizee">
+<!--   <img src="https://github.com/Praizee/Praizee/assets/89282358/115fa7a8-4047-445d-b11e-66947fd5f285" alt="Praizee"> -->
 
 <!--   [![GitHub Streak](https://streak-stats.demolab.com?user=Praizee&theme=algolia&type=png)](https://git.io/streak-stats) -->
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MRMYSTERY003&theme=algolia" alt="MRMYSTERY003" /> -->
