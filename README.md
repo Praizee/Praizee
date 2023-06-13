@@ -45,9 +45,13 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
 </p>
 
+[![Praizee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Praizee)](https://github.com/Praizee/github-readme-stats)
 
+
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPraizee&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 <!-- https://streak-stats.demolab.com/demo/ -->
+<!-- https://hits.seeyoufarm.com/ -->
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
 <!-- https://github-profile-trophy.vercel.app/?username=Praizee -->
 <!-- https://shields.io/ -->
