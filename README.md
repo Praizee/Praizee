@@ -6,12 +6,13 @@
  
 
 # 💁🏽‍♂️  About me
-- 👀 I’m interested in `Web and App development`
+- 👀 I’m interested in `Web and App development
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning: `Web Development` and `Cybersecurity `.
 - 💞️ I’m currently open for: `Collaboration` on `Frontend Web Dev projects`.
 - :nerd_face: Always `learning new things`!
-- 📫 How to reach me ... adeolaastephen@gmail.com and +2349028923853
+- 📫 How to reach me ... adeolaastephen@gmail.com
+<!-- and +2349028923853 --> 
 <!-- - :computer: I am a creative programmer mainly at `Sketching` and `Machine Learning`. -->
 <!-- - :school: I am pursuing `Engineering` @ Sairam Engineering College -->
 <!-- - :trophy: An upcoming `Youtuber` -->
