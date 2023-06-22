@@ -4,6 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=A+Frontend+Web+Developer+%F0%9F%A7%91%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB;Computer+Science+student+%F0%9F%92%BB;Software+Engineer+%F0%9F%9B%A0%EF%B8%8F;Always+learning+new+things+%F0%9F%A4%93" alt="Typing SVG" /></a>
 </p>
  
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">
 
 # 💁🏽‍♂️  About me
 - 👀 I’m interested in `Web and App development
