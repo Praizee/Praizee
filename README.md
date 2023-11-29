@@ -7,17 +7,18 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">
 
 # 💁🏽‍♂️  About me
-- 👀 I’m interested in `Web and App development
-- :technologist: I love using Software as a solution for every `Problem`.
-- :student: I’m currently learning: `Web Development` and `Cybersecurity `.
-- 💞️ I’m currently open for: `Collaboration` on `Frontend Web Dev projects`.
+- 👀 I’m interested in `Web development`
+- :technologist: I love using `Software` as a solution to every `Problem`.
+- :student: I’m currently learning: `Web Development` and `Cybersecurity`.
+- :handshake: I am available for Frontend project `collaborations` and `freelance gigs`.
 - :nerd_face: Always `learning new things`!
 - 📫 How to reach me ... adeolaastephen@gmail.com
 <!-- and +2349028923853 --> 
+<!-- - 💞️ I’m currently open for: `Collaboration` on `Frontend gigs`. --> 
 <!-- - :computer: I am a creative programmer mainly at `Sketching` and `Machine Learning`. -->
-<!-- - :school: I am pursuing `Engineering` @ Sairam Engineering College -->
+<!-- - :school: I am pursuing a degree in `Cybersecurity` @ _______ -->
 <!-- - :trophy: An upcoming `Youtuber` -->
-<!-- - :thinking: I’m currently open for: `An Colabration` or a new `Project work`. -->
+<!-- - :thinking: I’m currently open for: `An Collaboration` or a new `Project work`. -->
 
 
 ## 🔥 Streak Stats
@@ -68,7 +69,8 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPraizee&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile-Hits&edge_flat=false"/></a>
 </p>
 
-Last Edited on: 22/06/2023
+Last Edited on: 29/09/2023
+<!-- Last Edited on: 22/06/2023 -->
 <!-- Last Edited on: 13/06/2023 -->
 
 <!-- https://streak-stats.demolab.com/demo/ -->
