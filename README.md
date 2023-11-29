@@ -7,9 +7,9 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">
 
 # 💁🏽‍♂️  About me
-- 👀 I’m interested in `Web development`
+- 👀 I’m interested in `Web Development` and `Cybersecurity`.
 - :technologist: I love using `Software` as a solution to every `Problem`.
-- :student: I’m currently learning: `Web Development` and `Cybersecurity`.
+- :student: I’m currently learning: `Typescript` and `Redux`.
 - :handshake: I am available for Frontend project `collaborations` and `freelance gigs`.
 - :nerd_face: Always `learning new things`!
 - 📫 How to reach me ... adeolaastephen@gmail.com
