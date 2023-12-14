@@ -66,7 +66,8 @@
 <br/>
 
 <div align="center">
-[BUYMEACOFFEE](https://www.buymeacoffee.com/steve_ade)
+	
+<a href="https://www.buymeacoffee.com/steve_ade"> [BUYMEACOFFEE] </a>
 <!--<b>❤️ Thank you for visiting my Github Profile ❤️</b> -->
 </div>
 
