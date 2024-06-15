@@ -18,7 +18,7 @@
 <!-- - :computer: I am a creative programmer mainly at `Sketching` and `Machine Learning`. -->
 <!-- - :school: I am pursuing a degree in `Cybersecurity` @ _______ -->
 <!-- - :trophy: An upcoming `Youtuber` -->
-<!-- - :thinking: I’m currently open for: `An Collaboration` or a new `Project work`. -->
+<!-- - :thinking: I’m currently open for: `An Collaboration` or a new `Project work` -->
 
 
 ## 🔥 Streak Stats
