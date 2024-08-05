@@ -10,7 +10,7 @@
 - 👀 I’m interested in `Web Development`, `Mobile Development` and `Cybersecurity`.
 - :technologist: I love using `Software` as a solution to every `Problem`.
 - :student: I’m currently learning: `React Native` and `Redux`.
-- :handshake: I am available for Frontend project `collaborations` and `freelance gigs`.
+- :handshake: I am available for `collaborations` on Open Source Projects.
 - :nerd_face: Always `learning new things`!
 - 📫 How to reach me ... adeolaastephen@gmail.com
 <!-- and +2349028923853 --> 
@@ -75,7 +75,8 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPraizee&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile-Hits&edge_flat=false"/></a>
 </p>
 
-Last Edited on: 06/05/2024
+Last Edited on: 05/08/2024
+<!-- Last Edited on: 06/05/2024 -->
 <!-- Last Edited on: 10/03/2024 -->
 <!-- Last Edited on: 29/09/2023 -->
 <!-- Last Edited on: 22/06/2023 -->
