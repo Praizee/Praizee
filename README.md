@@ -49,6 +49,13 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
 </p>
 
+### 🚶🏼‍♂️‍➡️ WakaTime
+ 
+<p align="center">
+  &emsp;
+    <a href="https://wakatime.com/@baed5a39-3930-41b2-be10-f3d7a6f42fec"><img src="https://wakatime.com/badge/user/baed5a39-3930-41b2-be10-f3d7a6f42fec.svg" alt="Total time coded since Sep 26 2022" /></a>
+</p>
+
 ## 📊 Github Stats
 
   <summary><b>💻 GitHub Profile Stats</b></summary>
