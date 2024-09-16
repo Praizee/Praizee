@@ -49,13 +49,6 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-### 🚶🏼‍♂️‍➡️ WakaTime
- 
-<p align="center">
-  &emsp;
-    <a href="https://wakatime.com/@baed5a39-3930-41b2-be10-f3d7a6f42fec"><img src="https://wakatime.com/badge/user/baed5a39-3930-41b2-be10-f3d7a6f42fec.svg" alt="Total time coded since Sep 26 2022" /></a>
-</p>
-
 ## 📊 Github Stats
 
   <summary><b>💻 GitHub Profile Stats</b></summary>
@@ -68,6 +61,19 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
+
+
+  <br/>
+<!-- ### 🚶🏼‍♂️‍➡️ WakaTime -->
+<summary><b>🚶🏼‍♂️‍➡️ WakaTime</b></summary>
+ <div align="center">
+  &emsp;
+    <a href="https://wakatime.com/@baed5a39-3930-41b2-be10-f3d7a6f42fec"><img src="https://wakatime.com/badge/user/baed5a39-3930-41b2-be10-f3d7a6f42fec.svg" alt="Total time coded since Sep 26 2022" /></a>
+<br/>
+<br/>
+	 
+  [![Praizee's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=steve_ade1407)](https://github.com/anuraghazra/github-readme-stats)
+</div>
   
 <br/>
 <br/>
@@ -82,7 +88,8 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPraizee&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile-Hits&edge_flat=false"/></a>
 </p>
 
-Last Edited on: 19/08/2024
+Last Edited on: 16/09/2024
+<!-- Last Edited on: 19/08/2024 -->
 <!-- Last Edited on: 05/08/2024 ->>
 <!-- Last Edited on: 06/05/2024 -->
 <!-- Last Edited on: 10/03/2024 -->
