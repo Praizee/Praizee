@@ -72,7 +72,7 @@
 <br/>
 <br/>
 	 
-  [![Praizee's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=steve_ade1407)](https://github.com/anuraghazra/github-readme-stats)
+  [![Praizee's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=steve_ade1407&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 </div>
   
 <br/>
