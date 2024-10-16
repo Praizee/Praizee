@@ -78,6 +78,17 @@
 <br/>
 <br/>
 
+<!--
+### Badges
+
+<b>My GitHub Stats</b>
+
+[![@praizee's Holopin board](https://holopin.me/praizee)](https://holopin.io/@praizee)
+[![An image of @praizee's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/praizee)](https://holopin.io/@praizee) 
+
+-->
+
+
 <div align="center">
 	
 <!-- <a href="https://www.buymeacoffee.com/steve_ade1407"> [BUYMEACOFFEE] </a> -->
