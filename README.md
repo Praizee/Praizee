@@ -41,8 +41,8 @@
 	<a href="https://github.com/Praizee"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=GitHub&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/stephen-adeniji/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/steve.ade1407/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/steve_ade14/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?plastic&logo=Instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://twitter.com/steve_ade1407"><img alt="Mastodon Follow" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=plastic&logo=Twitter&logoColor=white"></a>
+	<a href="https://www.instagram.com/steeven_adeniji/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?plastic&logo=Instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://x.com/intent/follow?screen_name=steve_ade1407"><img alt="X (formerly Twitter)" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=plastic&logo=Twitter&logoColor=white"></a>
 </p>
 
 
